@@ -1,5 +1,4 @@
 # Programmer Names: Paul Xiong
-# Course: ICS 2O1
 # Date: Jan 21, 2022
 # Description:  1) Ask user to lead, throw, or put
 #               2) Calculate the players cards, who won the round, who won the set, who won the game
